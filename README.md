@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌊 <strong>𝙉𝙊𝙍𝘿𝙄𝘾 → 𝘿𝙒𝙈</strong> 🌊</h1>
+  <h1>🌊 <strong>𝙉𝙊𝙍𝘿𝙄𝘾 ☛ 𝘿𝙒𝙈</strong> 🌊</h1>
 </div>
 
 
