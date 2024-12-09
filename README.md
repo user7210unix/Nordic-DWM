@@ -17,7 +17,7 @@
   <p style="font-size: 19px; line-height: 1.6; color: #7c3f00;">
     Below is a preview of my rice setup, showcasing a minimalist floating window layout with sleek black and dark yellow accents.
   </p>
-  <img src="pictures/rice.png" alt="Rice Setup Preview" width="600" style="display: block; margin: 29px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+  <img src="showcase/rice.png" alt="Rice Setup Preview" width="600" style="display: block; margin: 29px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
 
 ---
@@ -32,7 +32,7 @@
       LFS 12.2 Book
     </a>
   </p>
-  <img src="pictures/lfs.png" alt="LFS Logo" width="150" style="margin-top: 10px;">
+  <img src="showcase/lfs.png" alt="LFS Logo" width="150" style="margin-top: 10px;">
 </div>
 
 ---
