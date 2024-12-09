@@ -4,4 +4,6 @@
 
 xrdb ~/.Xresources &
 
+picom &
+
 /home/user/suckless/dwm/./dwm
