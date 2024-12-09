@@ -24,7 +24,7 @@
 
 <div align="center" style="font-family: 'Courier New', monospace; font-size: 18px; line-height: 1.6; color: #555;">
   <p>
-    My Distro of choice is <strong>LFS (Linux From Scratch) </strong>,
+    My OS of choice is <strong>LFS (Linux From Scratch) </strong>,
     prioritizing <strong>performance</strong>, <strong>simplicity</strong>, and a <strong>clean aesthetic</strong>.
   </p>
   <p>
